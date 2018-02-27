@@ -1,6 +1,11 @@
 # cerebro-gruvbox
 A dark Gruvbox theme for Cerebro.
 
+## Example
+
+![scrot](scrot.png)
+
+
 ## How to install
 All you need to do is change Cerebro's theme in its config.json.
 This is located in wherever the rest of Cerebro's stuff is. On
