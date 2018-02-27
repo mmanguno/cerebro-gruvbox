@@ -1,4 +1,4 @@
-#cerebro-gruvbox
+# cerebro-gruvbox
 A dark Gruvbox theme for Cerebro.
 
 ## How to install
